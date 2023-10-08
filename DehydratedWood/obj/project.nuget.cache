@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PKjKDp9j9aanHC8CLdAvR8durSHTYoO+XEMGXfuMM9+vrj4IztrHq8h6GDY1kp0iEKjAaA+pC94yuv4uZkqhcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\johns\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\DehydratedWood\\DehydratedWood.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\johns\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+
+Mods: {
+	DehydratedWood: {
+		Items: {
+			DehydratedWoodItem.DisplayName: Dehydrated Wood
+			DehydratedWoodPickaxe.DisplayName: Dehydrated Wood Pickaxe
+		}
+
+		Tiles.DehydratedOre.MapEntry: Mods.DehydratedWood.MapObject.DehydratedOre
+	}
+}
